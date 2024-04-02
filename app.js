@@ -1,5 +1,5 @@
 let x = 10;
 console.log(45*x);
 
-let y=100;
+let y=5555;
 console.log(y*x);
